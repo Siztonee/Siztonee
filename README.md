@@ -9,7 +9,7 @@ HTML, CSS, PHP, JS.
 Familiar with basic things in languages ​​such as:
 Python.
 
-I use Libraries and Frameworks such as:
-Soon...
+I use Libraries and Frameworks or other such as:
+Laravel, Bootstrap
 
 Will be supplemented
