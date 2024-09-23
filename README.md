@@ -11,7 +11,7 @@ php, laravel, sql, web sockets, reverb.
 
 And I'm use:
 
-git, xampp, phpstorm, postman, vite.
+git, xampp, phpstorm, postman, vite, composer, npm.
 
 
 
