@@ -34,7 +34,7 @@ I'm a beginner programmer currently focusing on Web Development.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Siztonee&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
