@@ -1,0 +1,3 @@
+node_modules/* linguist-vendored
+public/build/* linguist-generated
+resources/js/* linguist-vendored
