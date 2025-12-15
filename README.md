@@ -10,6 +10,7 @@
 ### Backend
 - **Go** — Gin, GORM, Echo
 - **PHP** — Laravel, Symfony
+- **Python** - Django
 - REST API, GraphQL
 
 ### Базы данных
@@ -38,7 +39,7 @@
 ## 📫 Контакты
 - Telegram: [@siztone](https://t.me/siztone)
 - Email: turdukulovnurislam1@mail.com
-- LinkedIn: [linkedin.com/in/нурислам-турдукулов-5b8b432a5](www.linkedin.com/in/нурислам-турдукулов-5b8b432a5)
+- LinkedIn: [Нурислам Турдукулов](www.linkedin.com/in/нурислам-турдукулов-5b8b432a5)
 
 ---
 
