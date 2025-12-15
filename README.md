@@ -28,11 +28,7 @@
 
 ## 💻 Проекты
 
-- [Task Manager](https://github.com/nurislam/task-manager) — backend на Go + Gin
-- [Portfolio API](https://github.com/nurislam/portfolio-api) — Laravel REST API
-- [Mini Blog](https://github.com/nurislam/mini-blog) — PHP + Laravel, CRUD приложение
-
-> Все проекты имеют README с инструкцией запуска и описанием технологий
+**Все проекты имеют README с инструкцией запуска и описанием технологий**
 
 ---
 
