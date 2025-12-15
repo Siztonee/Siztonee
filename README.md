@@ -13,7 +13,7 @@
 - REST API, GraphQL
 
 ### Базы данных
-- PostgreSQL, MySQL, Redis
+- PostgreSQL, MySQL, Sqlite, Redis
 
 ### DevOps & Tools
 - Docker, Docker Compose
@@ -36,9 +36,9 @@
 ---
 
 ## 📫 Контакты
-- Telegram: [@username](https://t.me/username)
-- Email: example@mail.com
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+- Telegram: [@siztone](https://t.me/siztone)
+- Email: turdukulovnurislam1@mail.com
+- LinkedIn: [linkedin.com/in/нурислам-турдукулов-5b8b432a5](www.linkedin.com/in/нурислам-турдукулов-5b8b432a5)
 
 ---
 
